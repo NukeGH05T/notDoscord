@@ -2,6 +2,8 @@
 
 This project was inspired by Discord.
 
+*Firebase info needs to be filled out in `firebase.js` before using.*
+
 ## Available Scripts
 
 In the project directory, you can run:
